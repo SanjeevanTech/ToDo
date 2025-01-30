@@ -66,7 +66,7 @@ dynamicScreen
 ![ToDo Screen](./assets/home.png)
 
 ### Todo Details Dynamic and popup:
-![Todo Details Popup](./assets/dynamicsScreen.png)
+![Todo Details Popup](./assets/dynamicScreen.png)
 
 ### pagination Design:
 ![Header Design](./assets/pagination.png)
