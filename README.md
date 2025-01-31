@@ -11,9 +11,8 @@ This is a user-friendly web UI developed using **React**, **Vite**, **Tailwind C
   - [4. Logout Functionality](#4-logout-functionality)
 - [Technologies Used](#technologies-used)
 - [Screenshots](#screenshots)
-- [Installation](#installation)
-- [Usage](#usage)
-- [License](#license)
+
+
 
 ## Project Overview
 
@@ -66,15 +65,9 @@ dynamicScreen
 ![ToDo Screen](./assets/home.png)
 
 ### Todo Details Dynamic and popup:
-![Todo Details Popup](./assets/dynamicsScreen.png)
+![Todo Details Popup](./assets/dynamicScreen.png)
 
 ### pagination Design:
 ![Header Design](./assets/pagination.png)
 
-## Installation
 
-To install and run the project locally, follow these steps:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/sanjeevantech/todo-app.git
